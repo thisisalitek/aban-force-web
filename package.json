@@ -1,0 +1,18 @@
+{
+  "name": "aban-force-web",
+  "version": "1.0.0",
+  "description": "Aban  simulate multiple web end users to force a website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Shaman Coders",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
